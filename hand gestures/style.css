@@ -1,0 +1,23 @@
+body 
+{
+color: white;
+background: bisque;
+}
+span 
+{
+    font-size: 30px;
+}
+#camera , #result {
+border: 2px dashed black;
+width: 350px;;
+height: 300px;
+}
+.icon_result {
+    font: size 48px;;
+}
+h1{
+
+    background-color: blueviolet;
+    width: fit-content;
+    height:fit-content;
+}
